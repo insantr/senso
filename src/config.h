@@ -10,6 +10,6 @@
 //#define SSID_WIFI "V30+_6820"
 //#define PASS_WIFI "12345678"
 #define SSID_WIFI "Hello World on 2.4GHz"
-#define PASS_WIFI "goodbyeworld"
+#define PASS_WIFI "..."
 
 #endif //ESP32_SENSORS_CONFIG_H
