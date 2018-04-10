@@ -1,0 +1,95 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/aleksandr.komarica/Workspace/esp32_sensors/.piolibdeps/BME280_ID901/src/BME280.cpp" "/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/esp32_sensors.dir/.piolibdeps/BME280_ID901/src/BME280.cpp.o"
+  "/Users/aleksandr.komarica/Workspace/esp32_sensors/.piolibdeps/BME280_ID901/src/BME280I2C.cpp" "/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/esp32_sensors.dir/.piolibdeps/BME280_ID901/src/BME280I2C.cpp.o"
+  "/Users/aleksandr.komarica/Workspace/esp32_sensors/.piolibdeps/BME280_ID901/src/BME280I2C_BRZO.cpp" "/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/esp32_sensors.dir/.piolibdeps/BME280_ID901/src/BME280I2C_BRZO.cpp.o"
+  "/Users/aleksandr.komarica/Workspace/esp32_sensors/.piolibdeps/BME280_ID901/src/BME280Spi.cpp" "/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/esp32_sensors.dir/.piolibdeps/BME280_ID901/src/BME280Spi.cpp.o"
+  "/Users/aleksandr.komarica/Workspace/esp32_sensors/.piolibdeps/BME280_ID901/src/BME280SpiSw.cpp" "/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/esp32_sensors.dir/.piolibdeps/BME280_ID901/src/BME280SpiSw.cpp.o"
+  "/Users/aleksandr.komarica/Workspace/esp32_sensors/.piolibdeps/BME280_ID901/src/EnvironmentCalculations.cpp" "/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/esp32_sensors.dir/.piolibdeps/BME280_ID901/src/EnvironmentCalculations.cpp.o"
+  "/Users/aleksandr.komarica/Workspace/esp32_sensors/lib/store.cpp" "/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/esp32_sensors.dir/lib/store.cpp.o"
+  "/Users/aleksandr.komarica/Workspace/esp32_sensors/src/InfluxClient.cpp" "/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/esp32_sensors.dir/src/InfluxClient.cpp.o"
+  "/Users/aleksandr.komarica/Workspace/esp32_sensors/src/Store.cpp" "/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/esp32_sensors.dir/src/Store.cpp.o"
+  "/Users/aleksandr.komarica/Workspace/esp32_sensors/src/main.cpp" "/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/esp32_sensors.dir/src/main.cpp.o"
+  "/Users/aleksandr.komarica/Workspace/esp32_sensors/src/utils.cpp" "/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/esp32_sensors.dir/src/utils.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/config"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/bluedroid"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_trace"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/app_update"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/bootloader_support"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/bt"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/driver"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/esp32"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/esp_adc_cal"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/ethernet"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/fatfs"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/freertos"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/heap"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/jsmn"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/log"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/mdns"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/mbedtls"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/mbedtls_port"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/newlib"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/nvs_flash"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/openssl"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/spi_flash"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/sdmmc"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/spiffs"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/tcpip_adapter"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/ulp"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/vfs"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/wear_levelling"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/xtensa-debug-module"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/coap"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/console"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/expat"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/json"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/lwip"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/nghttp"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/soc"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/tools/sdk/include/wpa_supplicant"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/cores/esp32"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/variants/pocket_32"
+  "../src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/DNSServer/src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/EEPROM"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/ESP32/src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/ESPmDNS/src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/FS/src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/Preferences/src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/SD/src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/SD_MMC/src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/SimpleBLE/src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/Update/src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src"
+  "/Users/aleksandr.komarica/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src"
+  "/Users/aleksandr.komarica/.platformio/packages/toolchain-xtensa32/xtensa-esp32-elf/include"
+  "/Users/aleksandr.komarica/.platformio/packages/toolchain-xtensa32/xtensa-esp32-elf/include/c++/5.2.0"
+  "/Users/aleksandr.komarica/.platformio/packages/toolchain-xtensa32/xtensa-esp32-elf/include/c++/5.2.0/xtensa-esp32-elf"
+  "/Users/aleksandr.komarica/.platformio/packages/toolchain-xtensa32/lib/gcc/xtensa-esp32-elf/5.2.0/include"
+  "/Users/aleksandr.komarica/.platformio/packages/toolchain-xtensa32/lib/gcc/xtensa-esp32-elf/5.2.0/include-fixed"
+  "/Users/aleksandr.komarica/.platformio/packages/tool-unity"
+  ".././.piolibdeps/BME280_ID901/src"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

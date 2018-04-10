@@ -1,0 +1,11 @@
+/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/esp32_sensors.dir
+/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir
+/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir
+/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir
+/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir
+/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir
+/Users/aleksandr.komarica/Workspace/esp32_sensors/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir
